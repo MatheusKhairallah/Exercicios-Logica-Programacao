@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\bin\Debug\net9.0\retangulo.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\bin\Debug\net9.0\retangulo.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\bin\Debug\net9.0\retangulo.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\bin\Debug\net9.0\retangulo.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\bin\Debug\net9.0\retangulo.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\refint\retangulo.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\retangulo.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\retangulo\obj\Debug\net9.0\ref\retangulo.dll

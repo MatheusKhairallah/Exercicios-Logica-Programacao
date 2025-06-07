@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\bin\Debug\net9.0\soma_impares.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\bin\Debug\net9.0\soma_impares.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\bin\Debug\net9.0\soma_impares.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\bin\Debug\net9.0\soma_impares.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\bin\Debug\net9.0\soma_impares.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\refint\soma_impares.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\soma_impares.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_impares\obj\Debug\net9.0\ref\soma_impares.dll
