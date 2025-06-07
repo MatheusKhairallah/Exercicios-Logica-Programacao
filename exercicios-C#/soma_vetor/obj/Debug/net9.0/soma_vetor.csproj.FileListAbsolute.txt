@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\bin\Debug\net9.0\soma_vetor.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\bin\Debug\net9.0\soma_vetor.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\bin\Debug\net9.0\soma_vetor.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\bin\Debug\net9.0\soma_vetor.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\bin\Debug\net9.0\soma_vetor.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\refint\soma_vetor.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\soma_vetor.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\soma_vetor\obj\Debug\net9.0\ref\soma_vetor.dll
