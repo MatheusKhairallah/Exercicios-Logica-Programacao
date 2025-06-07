@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\bin\Debug\net9.0\crescente.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\bin\Debug\net9.0\crescente.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\bin\Debug\net9.0\crescente.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\bin\Debug\net9.0\crescente.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\bin\Debug\net9.0\crescente.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\refint\crescente.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\crescente.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\crescente\obj\Debug\net9.0\ref\crescente.dll

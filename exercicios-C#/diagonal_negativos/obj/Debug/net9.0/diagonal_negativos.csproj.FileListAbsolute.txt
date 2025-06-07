@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\bin\Debug\net9.0\diagonal_negativos.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\bin\Debug\net9.0\diagonal_negativos.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\bin\Debug\net9.0\diagonal_negativos.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\bin\Debug\net9.0\diagonal_negativos.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\bin\Debug\net9.0\diagonal_negativos.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\refint\diagonal_negativos.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\diagonal_negativos.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\diagonal_negativos\obj\Debug\net9.0\ref\diagonal_negativos.dll
