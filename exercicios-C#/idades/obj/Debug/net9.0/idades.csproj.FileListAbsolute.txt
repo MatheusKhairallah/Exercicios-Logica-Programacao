@@ -1,0 +1,14 @@
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\bin\Debug\net9.0\idades.exe
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\bin\Debug\net9.0\idades.deps.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\bin\Debug\net9.0\idades.runtimeconfig.json
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\bin\Debug\net9.0\idades.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\bin\Debug\net9.0\idades.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.AssemblyInfoInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.AssemblyInfo.cs
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.csproj.CoreCompileInputs.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\refint\idades.dll
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.pdb
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\idades.genruntimeconfig.cache
+D:\Udemy\Algoritmos e Lógica de Programação\Seção 12 Linguagem C#\Exercicios\idades\obj\Debug\net9.0\ref\idades.dll
